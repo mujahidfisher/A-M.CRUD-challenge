@@ -2,3 +2,17 @@
     height: 6rem;
     border-radius: 2rem;
 }
+#content{
+    display: flex;
+    justify-content: center;
+}
+.head-home{
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+}
+.btns{
+    background-color: rgb(127, 69, 69);
+    color: white;
+    border: solid rgb(0, 0, 0);
+}
